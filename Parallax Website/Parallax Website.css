@@ -1,0 +1,132 @@
+.parallax{
+    background-image:url("../Parallax%20Website/img_parallax.jpg");
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.65;
+
+
+}
+
+
+
+.caption{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+span{
+    background-color: blanchedalmond;
+    
+    padding: 17px;
+    letter-spacing: 15px;
+}
+
+.text{
+    padding: 90px;
+    background-color: #77706f;
+    height: 165px;
+    color: #ccc5c5;
+    text-align: justify;
+    overflow: auto;
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+.text2{
+   padding: 50px 90px;
+    background-color: #797979;
+    height: 57px;
+    color: #ccc5c5;
+    text-align: justify;
+    overflow: auto;
+    font: 400 15px/1.8 "Lato", sans-serif;
+}
+
+h3{
+    text-align: center ;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+
+.parallax2{
+    background-image:url("../Parallax%20Website/img_parallax2.jpg");
+    height: 60%;
+
+    background-attachment: fixed;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.65;
+
+    position: relative;
+}
+
+.span2{
+    background-color: #afaaa978;
+    
+    padding: 17px;
+    letter-spacing: 15px;
+}
+
+.parallax3{
+    background-image:url("../Parallax%20Website/img_parallax3.jpg");
+    height: 56%;
+
+    background-attachment: fixed;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.65;
+
+    position: relative;
+}
+
+.span3{
+    background-color: #f9e31c;
+    
+    padding: 17px;
+    letter-spacing: 15px;
+}
+
+.text3{
+    padding: 50px 90px;
+     background-color: #615f5f;
+     height: 189px;
+     color: #ccc5c5;
+     text-align: justify;
+     overflow: auto;
+     font: 400 15px/1.8 "Lato", sans-serif;
+ }
+
+ .parallax4{
+    background-image:url("../Parallax%20Website/img_parallax4.jpg");
+    height: 100%;
+
+    background-attachment: fixed;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.65;
+
+    position: relative;
+}
+
+.span4{
+    background-color: #bdbebe;
+    
+    padding: 17px;
+    letter-spacing: 15px;
+}
